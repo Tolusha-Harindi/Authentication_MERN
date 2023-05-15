@@ -1,1 +1,1 @@
-# Aythrntication_MERN
+# Authentication_MERN
